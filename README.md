@@ -14,4 +14,7 @@ Our experimental evaluation shows that, even under privacy-preserving constraint
 
 
 ## Pseudocode Clean-Label Backdoor
-![image](https://github.com/user-attachments/assets/08905ae4-a281-4da2-9343-2ce1511a5331)
+
+![image](https://github.com/user-attachments/assets/e98a52cd-ee14-4e6a-a176-6a2a2e526258)
+
+

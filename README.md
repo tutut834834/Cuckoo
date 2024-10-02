@@ -1,5 +1,6 @@
 # Cuckoo - Clean Label Backdoor on Horizontal Federated Learning Systems
-![image](https://github.com/user-attachments/assets/08905ae4-a281-4da2-9343-2ce1511a5331)
+![image](https://github.com/user-attachments/assets/24207a56-8ecc-4a24-9400-5c0256117c47)
+
 
 Code for our paper, "Cuckoo Attacks: Clean Label Backdoor on Horizontal Federated Learning Systems". This repository provides the implementation and experimental evaluation of clean label backdoor attacks in horizontal federated learning (HFL) environments. The attack leverages malicious triggers embedded in training data that appear legitimate, allowing adversaries to covertly compromise global models.
 

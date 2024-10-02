@@ -9,19 +9,8 @@ In this research, we investigate clean label backdoor attacks in the context of 
 
 Our experimental evaluation shows that, even under privacy-preserving constraints, clean label backdoor attacks effectively compromise global models, leading to misclassification during inference. Existing defense mechanisms are largely ineffective in detecting these attacks in a federated learning setup. The results underline the challenge of securing HFL models against covert adversaries.
 
-A public repository for this project can be found under [link to repository].
 
 ![image](https://github.com/user-attachments/assets/b6e09556-7e42-4a54-b31f-c034dea08706)
-
-
-## Installation
-
-All required packages are listed in `requirements.txt`. This can be installed in a virtual environment using tools such as `virtualenv` or `conda`.
-
-Example of installation via `pip`:
-
-```bash
-pip install -r requirements.txt
 
 
 ## Pseudocode Clean-Label Backdoor

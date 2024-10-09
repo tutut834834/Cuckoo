@@ -19,3 +19,12 @@ Our experimental evaluation shows that, even under privacy-preserving constraint
 ![image](https://github.com/user-attachments/assets/e98a52cd-ee14-4e6a-a176-6a2a2e526258)
 
 
+## Branch091024
+Work for the presentation on 10.10.24: 
+![image](https://github.com/user-attachments/assets/0b70cb84-1d0a-458f-8420-a391c15bba22)
+![image](https://github.com/user-attachments/assets/bfd982e8-f433-45eb-b032-3c32d6570d74)
+![image](https://github.com/user-attachments/assets/b94ea950-9b02-4485-b192-a32f57a729fc)
+![image](https://github.com/user-attachments/assets/ad78fe84-d044-4374-8942-c318eb60ef3d)
+
+
+
